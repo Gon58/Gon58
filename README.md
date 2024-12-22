@@ -4,6 +4,12 @@
 
 ###
 
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=Gon58&style=flat-square&color=blue" alt=""/>
+</div>
+
+###
+
 <h3 align="left">👨🏼‍💻 About Me</h3>
 
 ###
